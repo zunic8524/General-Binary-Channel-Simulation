@@ -3,6 +3,7 @@
 This is to simulate using Matlab programming a remote sensing image through a general binary channel.
 
 <img src="C:\Users\zunic\Desktop\new github\General-Binary-Channel-Simulation\general binary channel pic.JPG">
+![](general binary channel pic.JPG)
 
 The output image with the bit error rate parameters of p and q.
 
