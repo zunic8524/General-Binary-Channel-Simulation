@@ -1,10 +1,16 @@
 # General-Binary-Channel-Simulation
 
-This is to simulate the output image with the bit error rate parameters p and q varying
-from 0 to 1 with 0.1 step (including p=0, q=0 and p=1, q=1), using Matlab programming. 
+This is to simulate using Matlab programming a remote sensing image through a general binary channel.
 
-## General-Binary-Channel-Simulation
+<img scr="C:\Users\zunic\Desktop\new github\General-Binary-Channel-Simulation\general binary channel pic.JPG">
 
-#### General-Binary-Channel-Simulation
+The output image with the bit error rate parameters of p and q.
 
-#### General-Binary-Channel-Simulation
+* p varying from 0 to 1 with 0.1 step (including p=0, p=1).
+* q varying from 0 to 1 with 0.1 step (including q=0, q=1).
+
+
+
+
+
+
